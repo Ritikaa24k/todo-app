@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Grocery shopping",
+    "description": "Buy vegetables, milk, and bread",
+    "completed": false,
+    "priority": "HIGH",
+    "createdAt": "2025-06-21T08:15:10.123456",
+    "dueDate": "2025-06-22T10:00",
+    "category": "Errands"
+  },
+  {
+    "id": 2,
+    "title": "Team meeting",
+    "description": "Weekly sync with the dev team on Zoom",
+    "completed": true,
+    "priority": "MEDIUM",
+    "createdAt": "2025-06-20T10:00:00.000000",
+    "dueDate": "2025-06-21T09:30",
+    "category": "Work"
+  },
+  {
+    "id": 3,
+    "title": "Exercise routine",
+    "description": "30-minute cardio and strength training",
+    "completed": false,
+    "priority": "MEDIUM",
+    "createdAt": "2025-06-22T06:30:45.234567",
+    "dueDate": "2025-06-22T07:30",
+    "category": "Health"
+  },
+  {
+    "id": 4,
+    "title": "Call Mom",
+    "description": "Weekly check-in call",
+    "completed": false,
+    "priority": "LOW",
+    "createdAt": "2025-06-20T19:45:33.111111",
+    "dueDate": "2025-06-20T20:00",
+    "category": "Personal"
+  },
+  {
+    "id": 5,
+    "title": "Finish resume",
+    "description": "Update with recent project and internship",
+    "completed": true,
+    "priority": "HIGH",
+    "createdAt": "2025-06-18T12:00:00.000000",
+    "dueDate": "2025-06-19T10:00",
+    "category": "Career"
+  },
+  {
+    "id": 6,
+    "title": "Read tech blog",
+    "description": "Catch up on latest AI research posts",
+    "completed": false,
+    "priority": "LOW",
+    "createdAt": "2025-06-21T21:00:00.000000",
+    "dueDate": "2025-06-23T08:00",
+    "category": "Learning"
+  },
+  {
+    "id": 7,
+    "title": "Clean apartment",
+    "description": "Vacuum and tidy the living area and kitchen",
+    "completed": false,
+    "priority": "MEDIUM",
+    "createdAt": "2025-06-19T14:22:58.222222",
+    "dueDate": "2025-06-20T16:00",
+    "category": "Home"
+  },
+  {
+    "id": 8,
+    "title": "Pay bills",
+    "description": "Electricity and phone bills due this week",
+    "completed": true,
+    "priority": "HIGH",
+    "createdAt": "2025-06-17T09:30:00.000000",
+    "dueDate": "2025-06-18T18:00",
+    "category": "Finance"
+  },
+  {
+    "id": 9,
+    "title": "Write blog post",
+    "description": "Post on HashMap vs TreeMap for beginners",
+    "completed": false,
+    "priority": "MEDIUM",
+    "createdAt": "2025-06-23T11:45:23.333333",
+    "dueDate": "2025-06-24T12:00",
+    "category": "Writing"
+  },
+  {
+    "id": 10,
+    "title": "Book dentist appointment",
+    "description": "Routine dental check-up next week",
+    "completed": false,
+    "priority": "LOW",
+    "createdAt": "2025-06-24T15:05:15.444444",
+    "dueDate": "2025-06-26T10:00",
+    "category": "Health"
+  }
+]
